@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525919533478",
+    "project_id": "kotlininstcolon",
+    "storage_bucket": "kotlininstcolon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525919533478:android:320f34c4f175ae2f91b767",
+        "android_client_info": {
+          "package_name": "com.kaderkayaarslan.kotlininstagramm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525919533478-4sho0modch48nf8gv2p0nn593v121hak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA184kkrFRfCSMC9iTRXy621uuDNlnmwe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525919533478-4sho0modch48nf8gv2p0nn593v121hak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
